@@ -1,4 +1,4 @@
-// This file is auto-generated from recommender.idl(0.5.2-68-g68e898d) with jenerator version 0.5.2-45-gc4cfc98/feature/unlearning
+// This file is auto-generated from recommender.idl(0.5.2-68-g68e898d) with jenerator version 0.6.0-36-g3268b0a/undefined
 // *** DO NOT EDIT ***
 
 #ifndef JUBATUS_CLIENT_RECOMMENDER_TYPES_HPP_

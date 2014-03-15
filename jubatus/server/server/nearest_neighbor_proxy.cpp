@@ -1,4 +1,4 @@
-// This file is auto-generated from nearest_neighbor.idl(0.5.4-186-g163c6bd) with jenerator version 0.5.4-224-g49229fa/develop
+// This file is auto-generated from nearest_neighbor.idl(0.5.4-186-g163c6bd) with jenerator version 0.6.0-36-g3268b0a/undefined
 // *** DO NOT EDIT ***
 
 #include <map>

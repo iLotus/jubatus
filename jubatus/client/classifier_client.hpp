@@ -1,4 +1,4 @@
-// This file is auto-generated from classifier.idl(0.5.2-72-g8fd4dbd) with jenerator version 0.5.2-45-gc4cfc98/feature/unlearning
+// This file is auto-generated from classifier.idl(0.5.4-148-gfea5e25) with jenerator version 0.6.0-36-g3268b0a/undefined
 // *** DO NOT EDIT ***
 
 #ifndef JUBATUS_CLIENT_CLASSIFIER_CLIENT_HPP_

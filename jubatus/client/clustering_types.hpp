@@ -1,4 +1,4 @@
-// This file is auto-generated from clustering.idl(0.5.3-34-g6eb49d0) with jenerator version 0.5.2-45-gc4cfc98/feature/unlearning
+// This file is auto-generated from clustering.idl(0.5.4-179-gb59b61b) with jenerator version 0.6.0-36-g3268b0a/undefined
 // *** DO NOT EDIT ***
 
 #ifndef JUBATUS_CLIENT_CLUSTERING_TYPES_HPP_
